@@ -2,8 +2,7 @@
 
 ## Quick homebrew package for lib-thai
 
-```
-bash
+```bash
 brew tap voxlyhq/homebrew-libthai
 brew install libthai
 ```
